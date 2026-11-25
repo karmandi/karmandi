@@ -21,7 +21,7 @@ I am an **AI and Software Engineer** (M.Sc. / Dipl.-Ing. in Software Engineering
 - **Molecular Graph Neural Networks @ BASF (Germany):** Completed my Master's thesis developing and benchmarking **Graph Neural Networks (PyTorch / PyTorch Geometric)** on experimental chemical datasets to predict molecular properties (**+15% accuracy** over baseline, **-20% RMSE** via ensemble learning and hyperparameter optimisation).
 - **Agentic AI & Knowledge Graphs:** Building multi-step LLM pipelines that combine **Knowledge Graphs**, **LangChain**, and strict **Pydantic schema validation** to extract structured engineering specifications from unstructured documents without hallucinations.
 - **Time-Series Forecasting & Cloud ML @ Timsoft:** Built and deployed demand/sales forecasting pipelines on **Microsoft Azure** (**+20% forecast accuracy**, contributing to a **+10% customer retention** lift).
-- **Languages:** English (C1), French (C1), Arabic (Native), German (B2).
+- **Languages:** English (C1), French (C1), Arabic (Native), German (B1).
 
 ---
 
